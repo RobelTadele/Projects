@@ -1,8 +1,4 @@
 %RobelTadele
-%COSC4153Programming Languages
-%programmingAssignment 3 
-%GenealogyofJesus
-%Sep182021
 %Pleaserefertothesamplequeryformatlistedbelow
 
 
